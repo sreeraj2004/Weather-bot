@@ -10,7 +10,7 @@ Provides temperature, wind speed, humidity, and weather conditions.
 
 
 1️⃣ Clone the Repository
-git clone https://github.com/your-repo/weather-bot.git
+git clone https://github.com/sreeraj2004/Weather-bot/
 cd weather-bot
 
 
